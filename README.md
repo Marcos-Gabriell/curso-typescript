@@ -23,4 +23,4 @@ Para começar a explorar este repositório e aprender mais sobre TypeScript, sig
 3. Clone este repositório em seu ambiente local usando o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/repo-de-estudos-typescript.git
+git clone https://github.com/Marcos-Gabriell/typescript-curso.git
