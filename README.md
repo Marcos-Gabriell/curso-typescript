@@ -19,7 +19,7 @@ Este repositório está organizado em pastas que correspondem a diferentes tópi
 
 Antes de começar, você precisará ter os seguintes componentes instalados em sua máquina:
 
-- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html): Certifique-se de ter o Java Development Kit instalado. Você pode verificar a instalação digitando `java -version` no seu terminal.
+- [NODE.JS](https://nodejs.org/en/download): Certifique-se de ter o node instalado. Você pode verificar a instalação digitando `node --version` no seu terminal.
 - Um compilador Java: Geralmente, o compilador Java já está incluído no Java JDK. Você pode verificar a instalação digitando `javac -version` no terminal.
 - Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
 
