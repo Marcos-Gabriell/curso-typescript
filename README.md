@@ -14,6 +14,21 @@ Este repositório está organizado em pastas que correspondem a diferentes tópi
 - **Ferramentas e Configuração**: Configuração do TypeScript, ferramentas populares e dicas de desenvolvimento.
 - **Exemplos de Aplicativos**: Projetos práticos ou aplicativos simples construídos com TypeScript.
 
+
+## Pré-requisitos
+
+Antes de começar, você precisará ter os seguintes componentes instalados em sua máquina:
+
+- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html): Certifique-se de ter o Java Development Kit instalado. Você pode verificar a instalação digitando `java -version` no seu terminal.
+- Um compilador Java: Geralmente, o compilador Java já está incluído no Java JDK. Você pode verificar a instalação digitando `javac -version` no terminal.
+- Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
+
+  - [Eclipse](https://www.eclipse.org/downloads/): Uma IDE poderosa e amplamente utilizada para desenvolvimento Java.
+  - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): Uma IDE popular com uma gama de recursos avançados.
+  - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para Java.
+
+Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimento e a execução do projeto.
+
 ## Começando
 
 Para começar a explorar este repositório e aprender mais sobre TypeScript, siga estas etapas:
@@ -24,3 +39,5 @@ Para começar a explorar este repositório e aprender mais sobre TypeScript, sig
 
 ```bash
 git clone https://github.com/Marcos-Gabriell/typescript-curso.git
+
+
