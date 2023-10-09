@@ -1,4 +1,6 @@
 
+// Apple, 3, true
 
-let valeus: number [] = [10, 20, 40, ]
+let item: [string, number, boolean] = ['Aplle', 3, true]
 
+item[1].toString
