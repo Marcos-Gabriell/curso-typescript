@@ -2,9 +2,6 @@
 
 Bem-vindo ao repositório de estudos em TypeScript! Neste repositório, você encontrará uma coleção de códigos e exemplos construídos para ajudar no aprendizado e no aprimoramento de suas habilidades em TypeScript.
 
-
-
-- **Fundamentos do TypeScript**: Exemplos simples que abordam tipos básicos, variáveis, funções e estruturas de controle.
 - **Tipos Avançados**: Exploração de tipos avançados, incluindo tipos genéricos, tipos condicionais e interseções de tipos.
 - **Módulos e Importações**: Como organizar seu código em módulos e como importar/exportar módulos em TypeScript.
 - **Classes e Interfaces**: Conceitos de orientação a objetos em TypeScript, incluindo classes, interfaces, herança e polimorfismo.
