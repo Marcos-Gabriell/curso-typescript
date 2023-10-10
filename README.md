@@ -2,7 +2,6 @@
 
 Bem-vindo ao repositório de estudos em TypeScript! Neste repositório, você encontrará uma coleção de códigos e exemplos construídos para ajudar no aprendizado e no aprimoramento de suas habilidades em TypeScript.
 
-- **Ferramentas e Configuração**: Configuração do TypeScript, ferramentas populares e dicas de desenvolvimento.
 - **Exemplos de Aplicativos**: Projetos práticos ou aplicativos simples construídos com TypeScript.
 
 
