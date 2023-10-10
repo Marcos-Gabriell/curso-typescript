@@ -2,7 +2,6 @@
 
 Bem-vindo ao repositório de estudos em TypeScript! Neste repositório, você encontrará uma coleção de códigos e exemplos construídos para ajudar no aprendizado e no aprimoramento de suas habilidades em TypeScript.
 
-- **Módulos e Importações**: Como organizar seu código em módulos e como importar/exportar módulos em TypeScript.
 - **Classes e Interfaces**: Conceitos de orientação a objetos em TypeScript, incluindo classes, interfaces, herança e polimorfismo.
 - **Trabalhando com APIs**: Exemplos de como usar TypeScript para interagir com APIs REST e outros serviços web.
 - **Ferramentas e Configuração**: Configuração do TypeScript, ferramentas populares e dicas de desenvolvimento.
