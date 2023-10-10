@@ -4,7 +4,7 @@ Bem-vindo ao repositório de estudos em TypeScript! Neste repositório, você en
 
 ## Visão Geral
 
-Este repositório está organizado em pastas que correspondem a diferentes tópicos e conceitos do TypeScript.
+Est
 
 - **Fundamentos do TypeScript**: Exemplos simples que abordam tipos básicos, variáveis, funções e estruturas de controle.
 - **Tipos Avançados**: Exploração de tipos avançados, incluindo tipos genéricos, tipos condicionais e interseções de tipos.
