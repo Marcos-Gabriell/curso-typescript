@@ -2,7 +2,6 @@
 
 Bem-vindo ao repositório de estudos em TypeScript! Neste repositório, você encontrará uma coleção de códigos e exemplos construídos para ajudar no aprendizado e no aprimoramento de suas habilidades em TypeScript.
 
-
 ## Pré-requisitos
 
 Antes de começar, você precisará ter os seguintes componentes instalados em sua máquina:
