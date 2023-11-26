@@ -12,8 +12,7 @@ Antes de começar, você precisará ter os seguintes componentes instalados em s
 - [NODE.JS](https://nodejs.org/en/download): Certifique-se de ter o node instalado. Você pode verificar a instalação digitando `node --version` no seu terminal.
 - Um compilador TypeScript: 
 - Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
-
-  - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para TypeScript.
+   - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para TypeScript.
 
 
 Certifique-se de ter uma  IDE  instalada para facilitar o desenvolvimento e a execução do projeto.
