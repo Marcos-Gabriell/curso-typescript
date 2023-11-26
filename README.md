@@ -1,6 +1,5 @@
 # Repositório de Estudos em TypeScript
 
-
 Bem-vindo ao repositório de estudos em TypeScript! Neste repositório, você encontrará uma coleção de códigos e exemplos construídos para ajudar no aprendizado e no aprimoramento de suas habilidades em TypeScript.
 
 
