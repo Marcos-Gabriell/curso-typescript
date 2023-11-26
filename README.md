@@ -5,6 +5,7 @@ Bem-vindo ao repositório de estudos em TypeScript! Neste repositório, você en
 
 ## Pré-requisitos
 
+
 Antes de começar, você precisará ter os seguintes componentes instalados em sua máquina:
 
 - [NODE.JS](https://nodejs.org/en/download): Certifique-se de ter o node instalado. Você pode verificar a instalação digitando `node --version` no seu terminal.
