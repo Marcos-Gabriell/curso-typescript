@@ -22,7 +22,6 @@ Certifique-se de ter uma  IDE  instalada para facilitar o desenvolvimento e a ex
 ## Começando
 
 
-
 Para começar a explorar este repositório e aprender mais sobre TypeScript, siga estas etapas:
 
 1. Escolha um tópico de seu interesse na lista de pastas.
