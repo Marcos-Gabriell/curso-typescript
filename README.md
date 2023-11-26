@@ -16,6 +16,7 @@ Antes de começar, você precisará ter os seguintes componentes instalados em s
 
   - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para TypeScript.
 
+
 Certifique-se de ter uma  IDE  instalada para facilitar o desenvolvimento e a execução do projeto.
 
 ## Começando
