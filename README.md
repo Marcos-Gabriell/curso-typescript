@@ -22,6 +22,7 @@ Certifique-se de ter uma  IDE  instalada para facilitar o desenvolvimento e a ex
 Para começar a explorar este repositório e aprender mais sobre TypeScript, siga estas etapas:
 
 
+
 1. Escolha um tópico de seu interesse na lista de pastas.
 2. Navegue pelos exemplos de código e leia os `README.md` correspondentes.
 3. Clone este repositório em seu ambiente local usando o seguinte comando:
