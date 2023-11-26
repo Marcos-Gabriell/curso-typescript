@@ -33,4 +33,3 @@ Para começar a explorar este repositório e aprender mais sobre TypeScript, sig
 ```bash
 git clone https://github.com/Marcos-Gabriell/typescript-curso.git
 
-
