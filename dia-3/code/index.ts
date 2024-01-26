@@ -1,6 +1,7 @@
+// Day 3 - Exercise 1
 
-function genereateError(message: string, code: number) {
-    throw{message: message, errorCode: code}
-}
+let pi = 3.14159;
+let tau = pi * 2;
 
-genereateError('errormaiidajsi', 505)
+console.log(`${tau} is ${pi} times two.`);
+

@@ -1,3 +1,5 @@
 "use strict";
-let a = 10;
-var b = 'marcis';
+function genereateError(message, code) {
+    throw { message: message, errorCode: code };
+}
+genereateError('errormaiidajsi', 505);
