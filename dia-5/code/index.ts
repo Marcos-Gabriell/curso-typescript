@@ -1,7 +1,12 @@
-// Day 3 - Exercise 1
+class Users {
+    name: string
+    balance: number
 
-let pi = 3.14159;
-let tau = pi * 4;
+    constructor(n: string, b: number) {
+        this.name = n
+        this.balance = b
+    }
+}
 
-console.log(`${tau} is ${pi} times two.`);
-
+const user1 = new Users('marcos', 10)
+console.log(user1)
