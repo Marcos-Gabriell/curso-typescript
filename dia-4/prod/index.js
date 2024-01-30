@@ -1,5 +1,5 @@
 "use strict";
-function genereateError(message, code) {
-    throw { message: message, errorCode: code };
-}
-genereateError('errormaiidajsi', 505);
+// Day 3 - Exercise 1
+let pi = 3.14159;
+let tau = pi * 4;
+console.log(`${tau} is ${pi} times two.`);
